@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' buildActiveScheme='true' executeOnSourceChanges='true' importAppTypes='true'>
+    <pages>
+        <page name='1. for-loop'/>
+        <page name='2. while-loop'/>
+        <page name='3. array-string'/>
+        <page name='4. switch-statement'/>
+        <page name='5. if-statement'/>
+        <page name='6. for-in-loop-dictionary'/>
+        <page name='7. for-in-loop-range'/>
+    </pages>
+</playground>
